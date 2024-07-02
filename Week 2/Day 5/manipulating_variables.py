@@ -23,7 +23,7 @@ extended_price = quantity * unit_price
 # Show some resluts on the screen.
 print(extended_price)
 
-x = 13
+x = 14
 if x == 0:
     print("x is zero")
 else:
